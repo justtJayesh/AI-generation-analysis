@@ -44,7 +44,7 @@ const ContentAssistant = () => {
         setError(null);
 
         try {
-            const res = await axios.post("https://ai-content-generator-backend-i83z.onrender.com/api/generate", {
+            const res = await axios.post("https://ai-generation-analysis-backend.onrender.com/api/generate", {
                 topic,
                 niche,
             });
