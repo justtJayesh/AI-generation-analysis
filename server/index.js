@@ -1,6 +1,3 @@
-// import express from "express";
-// import cors from "cors";
-// import GenAgent from "./Agent.js";
 
 const express = require("express");
 const cors = require("cors");
