@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer base {
+    body {
+        @apply bg-background text-text;
+    }
+}
+
+@layer components {
+    .btn {
+        @apply px-4 py-2 rounded-md font-medium transition-colors;
+    }
+    .btn-primary {
+        @apply bg-primary text-white hover:bg-primary/90;
+    }
+    .card {
+        @apply bg-surface rounded-lg shadow-sm p-6;
+    }
+}
