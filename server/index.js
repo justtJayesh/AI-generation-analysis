@@ -24,13 +24,7 @@ app.post("/api/generate", async (req, res) => {
             });
         }
 
-        // Log the request
-        console.log("Generating content for:", { topic, niche });
-
         const result = await GenAgent(topic, niche);
-
-        // Log the result
-        console.log("Generation result:", result);
 
         if (!result.success) {
             return res.status(500).json(result);
