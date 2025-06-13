@@ -2,7 +2,14 @@
 
 A full-stack web application that generates and analyzes social media content using AI. The application uses the Groq API to generate creative content ideas for social media posts, including reel ideas, captions, hashtags, and hooks.
 
-Deployed Link: [https://ai-generation-analysis-frontend.onrender.com/analytics]
+Deployed Link: https://ai-generation-analysis-frontend.onrender.com/analytics
+
+Snapshots: 
+<img width="1457" alt="Screenshot 2025-06-14 at 1 31 47 AM" src="https://github.com/user-attachments/assets/e12282c8-56a9-4d6e-ac3b-b6d599628b9d" />
+<img width="1455" alt="Screenshot 2025-06-14 at 1 33 23 AM" src="https://github.com/user-attachments/assets/80785b51-5013-435e-8bda-8d872061f8af" />
+<img width="1442" alt="Screenshot 2025-06-14 at 1 33 42 AM" src="https://github.com/user-attachments/assets/75a0817a-5ea4-4ad0-9cb4-64cd0ff08184" />
+
+
 
 ## Project Structure
 
